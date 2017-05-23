@@ -4,7 +4,7 @@
 #
 Name     : golang-github-docker-engine-api
 Version  : 6156954c5d57a1728c65593b13f50c405d9de9ed
-Release  : 5
+Release  : 6
 URL      : https://github.com/docker/engine-api/archive/6156954c5d57a1728c65593b13f50c405d9de9ed.tar.gz
 Source0  : https://github.com/docker/engine-api/archive/6156954c5d57a1728c65593b13f50c405d9de9ed.tar.gz
 Summary  : No detailed summary available
